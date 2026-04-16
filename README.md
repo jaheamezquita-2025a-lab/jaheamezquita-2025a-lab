@@ -18,7 +18,7 @@ CODE_ORGANIZATION: code-corhuila
 
 - *Nombre:* Javier Hernando Amezquita Pantoja
 - *GitHub:* [@jaheamezquita-2025a-lab](https://github.com/jaheamezquita-2025a-lab)  
-- *Email:* [jdariza-2025a@corhuila.edu.co](mailto:jaheamezquita-2025a@corhuila.edu.co)  
+- *Email:* [jaheamezquita-2025a@corhuila.edu.co](mailto:jaheamezquita-2025a@corhuila.edu.co)  
 - *Organización institucional:* [code-corhuila](https://github.com/code-corhuila)
 
 ---
