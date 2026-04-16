@@ -1,16 +1,28 @@
-## Hi there 👋
-
 <!--
-**jaheamezquita-2025a-lab/jaheamezquita-2025a-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+CONFIG
+FULL_NAME: Javier Hernando Amezquita Pantoja
+GITHUB_USER: jaheamezquita-2025a-lab
+EMAIL: jaheamezquita-2025a@corhuila.edu.co
+CODE_ORGANIZATION: code-corhuila
 -->
+
+<h1 align="center">Javier Hernando Amezquita Pantoja</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaheamezquita-2025a-lab=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views">
+</p>
+
+---
+
+## Perfil
+
+- *Nombre:* Javier Hernando Amezquita Pantoja
+- *GitHub:* [@jaheamezquita-2025a-lab](https://github.com/jaheamezquita-2025a-lab)  
+- *Email:* [jdariza-2025a@corhuila.edu.co](mailto:jaheamezquita-2025a@corhuila.edu.co)  
+- *Organización institucional:* [code-corhuila](https://github.com/code-corhuila)
+
+---
+
+## Repositorio institucional
+
+Este repositorio está asociado a la organización **code-corhuila**.
